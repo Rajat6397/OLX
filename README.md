@@ -12,16 +12,6 @@ CSS3: Styling and layout, including responsive design techniques.
 Installation
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/your-username/olx-landing-page.git
-Navigate to the Project Directory
-
-bash
-Copy code
-cd olx-landing-page
-Open the Landing Page in a Browser
-
 You can open the index.html file directly in your web browser to view the landing page.
 
 Usage
